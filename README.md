@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com um arquivo README 🚀
 
-[![gif da tela do markdown cheatsheet](tela.gif)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet?_gl=1*1aa2sh4*_ga*NzQxODI0OTc4LjE3MzE3MDY5MjE.*_ga_37GXT4VGQK*MTc0MTg4OTIxNi41OS4xLjE3NDE4OTA3NjAuMC4wLjA.)
+[<img src="./tela.gif" alt="gif da tela do markdown cheatsheet">](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet?_gl=1*1aa2sh4*_ga*NzQxODI0OTc4LjE3MzE3MDY5MjE.*_ga_37GXT4VGQK*MTc0MTg4OTIxNi41OS4xLjE3NDE4OTA3NjAuMC4wLjA.)
 
 ## Tecnologias utilizadas
 - HTML
